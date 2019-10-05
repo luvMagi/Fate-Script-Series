@@ -1,2 +1,0 @@
-pyinstaller -w -i ../Photos/Marie.ico Fate~K.py
-pyinstaller -w -i ../Photos/gdz.ico Fate~KE.py
