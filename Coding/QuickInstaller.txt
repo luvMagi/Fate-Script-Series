@@ -1,0 +1,2 @@
+pyinstaller --version-file=file_version_info.txt -w -i ../Photos/Marie.ico FateK.py
+pyinstaller -w -i ../Photos/gdz.ico FateKE.py
